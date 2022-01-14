@@ -1,4 +1,4 @@
-FROM benlubar/dwarffortress:dfhack-0.47.05-r1
+FROM ghcr.io/dancemore/dancemore/df-docker/dfhack:sha-57499ad
 
 ENV DF_AI_VERSION=0.47.05-r1 \
     DF_AI_ARCHIVE_NAME=df-ai-0.47.05-r1-linux-64-4.8.tar.gz \
