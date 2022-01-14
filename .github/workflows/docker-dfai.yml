@@ -1,4 +1,4 @@
-name: Docker CD
+name: Docker CD - df-ai
 
 on:
   push:
