@@ -1,4 +1,4 @@
-FROM benlubar/dwarffortress:df-0.47.05
+FROM ghcr.io/dancemore/dancemore/df-docker/dwarffortress:sha-0c75686
 
 ENV DFHACK_VERSION=0.47.05-r3 \
     DFHACK_ARCHIVE_NAME=dfhack-0.47.05-r3-Linux-64bit-gcc-4.8.tar.bz2 \
